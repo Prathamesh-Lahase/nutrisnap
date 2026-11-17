@@ -1,4 +1,4 @@
-# NutriSnap on Vercel (free Gemini version)
+# NutriSnap 
 
 Files:
 - index.html        the whole app (static page)
